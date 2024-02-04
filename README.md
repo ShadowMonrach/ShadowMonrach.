@@ -1,7 +1,8 @@
-## UPLOADER BOT V3 🚀
+## UPLOADERbot
 
 
-[![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://telegram.dog/UploadLinkToFileBot)
+
+[![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://telegram.dog/ChineseDonghuabot)
 
 [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/UPLOADER-BOT-V3?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/UPLOADER-BOT-V2/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/UPLOADER-BOT-V3?&style=flat-square&logo=github)
@@ -39,7 +40,23 @@ start - Check Bot Online 🔔
 about - Something About Me 😌
 delthumb - Delete Your Thumbnail 🏞
 showthumb - Showing Your Thumbnail 🏞
-```
+BOT_TOKEN - Get Bot Token From @BotFather
+
+API_ID - From my.telegram.org
+
+API_HASH - From my.telegram.org
+
+WEBHOOK - If Your Server Is Need Web Service! Value = True Else Value = False
+
+ADMIN - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split
+
+DB_URL - Mongo Database URL From https://cloud.mongodb.com
+
+DB_NAME - Your Database Name From Mongodb.
+
+FORCE_SUB - Your Force Sub Channel Username Without
+
+LOG_CHANNEL - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
 
 
 ### Config Vars:
